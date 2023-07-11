@@ -2,3 +2,6 @@ matplotlib
 requests
 matplotlib_venn
 retry
+praw
+tqdm
+openpyxl

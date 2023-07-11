@@ -132,4 +132,4 @@ dmypy.json
 .history/
 .DS_Store
 .idea/
-data/r/
+data/
