@@ -4,4 +4,6 @@ This repository's purpose is mainly exploration around the feasibility of a rese
 
 `The relationship between a person's musical preferences and the way this person expresses textually`.
 
-[Main notebook](https://github.com/eliranshemtov/Musical-Preferences-And-Textual-Expression/blob/main/MusicalPreferences.ipynb)
+The progress is fully documented in the step-based Jupyter notebooks as part of this repository.
+[detailed_data.zip](https://drive.google.com/file/d/11PtFdQ9bxnH7Fm71C_dyixF35LfocBsp/view?usp=sharing)
+[detailed_filtered_data.zip](https://drive.google.com/file/d/1AB-L1Vcy_i47YKwax0UGPKL3m_1XAyeK/view?usp=drive_link)
