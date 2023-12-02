@@ -6,3 +6,5 @@ praw
 tqdm
 openpyxl
 pandas
+numpy
+scikit-learn
